@@ -1,0 +1,16 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Generated presentation outputs
+examples/output/
+
+# Virtual environments & env files
+.venv/
+venv/
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
